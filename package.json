@@ -1,9 +1,9 @@
 {
-  "name": "shape-memory",
+  "name": "shape_memory",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://iamhneryokeke.github.io/Devicon-Memory-Card",
+  "homepage": "http://IamHenryOkeke.github.io/Devicon-Memory-Card",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
